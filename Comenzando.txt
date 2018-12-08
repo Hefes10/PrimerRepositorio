@@ -1,0 +1,26 @@
+git config --global user.name Hefes10
+git config --global user.email martin.miret@gmail.com
+
+git init //inicia
+
+git clone <url del repositorio> //clona un repositorio
+
+git remote add origin <url del repositorio> //agrega un origen remoto
+
+git remote rm origin //remueve el origen
+
+git commit //graba una imagen del proyecto
+
+git add . //agrega todos los archivos a la mesa de trabajo
+
+git rm <name file> //quita un archivo de la mesa de trabajo
+
+git push -u origin master //agrega los archivos de la carpeta local al repositorio remoto
+
+git diff //muestra las modificaciones
+
+git log //muestra el log
+
+git checkout //descarta los cambios
+
+git status //muestra los archivos modificados o no guardados en mesa de trabajo
