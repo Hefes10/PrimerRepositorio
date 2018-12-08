@@ -16,6 +16,7 @@ git add . //agrega todos los archivos a la mesa de trabajo
 git rm <name file> //quita un archivo de la mesa de trabajo
 
 git push -u origin master //agrega los archivos de la carpeta local al repositorio remoto
+//commitear primero
 
 git diff //muestra las modificaciones
 
